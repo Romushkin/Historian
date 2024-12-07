@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Historian</string>
+    <string name="start">Начать</string>
+    <string name="test_title">Тест по истории Отечества</string>
+    <string name="firstQuestion">Кто основал Московское княжество?</string>
+    <string name="answer1Q1">Юрий Долгорукий</string>
+    <string name="answer2Q1">Даниил Александрович</string>
+    <string name="answer3Q1">Иван Калита</string>
+    <string name="next">Далее</string>
+    <string name="secondQuestion">Сколько революций было в России?</string>
+    <string name="answer1Q2">Две</string>
+    <string name="answer2Q2">Три</string>
+    <string name="answer3Q2">Четыре</string>
+    <string name="thirdQuestion">С каким царем закончилось Смутное время?</string>
+    <string name="answer1Q3">Михаил Федорович</string>
+    <string name="answer2Q3">Федор Никитич</string>
+    <string name="answer3Q3">Лжедмитрий II</string>
+    <string name="fourthQuestion">В каком году была принята первая Конституция СССР?</string>
+    <string name="answer1Q4">1922</string>
+    <string name="answer2Q4">1924</string>
+    <string name="answer3Q4">1927</string>
+    <string name="fifthQuestion">Как назывался небольшой кружок близких Ивану Грозному людей, сложившийся в первые годы его правления?</string>
+    <string name="answer1Q5">Верховный совет</string>
+    <string name="answer2Q5">Тайная вечеря</string>
+    <string name="answer3Q5">Избранная рада</string>
+    <string name="score">Ваш результат:</string>
+    <string name="feedback">Текст характеристик</string>
+</resources>
